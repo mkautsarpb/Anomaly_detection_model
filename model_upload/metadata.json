@@ -1,6 +1,6 @@
 {
     "filename": "model.joblib",
-    "version": 1764866772,
-    "created_at": "2025-12-04T16:46:12.896243",
+    "version": 1764878393,
+    "created_at": "2025-12-04T19:59:53.943603",
     "source_path": "/opt/airflow/dags/anomaly_artifacts/full_model_anomaly_detection.joblib"
 }
